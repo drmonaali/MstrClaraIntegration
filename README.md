@@ -1,2 +1,2 @@
 # MstrClaraIntegration
-This python code is created to integrate MicroStrategy with Clarabridge
+This code is created to integrate MicroStrategy with Clarabridge
